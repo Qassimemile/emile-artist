@@ -15,8 +15,8 @@ export const artworks: Artwork[] = [
   {
     id: 2,
     title: "Mystical Forest",
-    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1753469456/8745631_uweivk.png",
-    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1753469456/8745631_uweivk.png",
+    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1754128495/01754128449496_vra48u.png",
+    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1754128495/01754128449496_vra48u.png",
   },
   {
     id: 3,
@@ -93,8 +93,8 @@ export const artworks: Artwork[] = [
   {
     id: 15,
     title: "Alien Planet",
-    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1753469465/000000055555666665555_y2jyqa.jpg",
-    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1753469465/000000055555666665555_y2jyqa.jpg",
+    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1754129434/51754129412524_qeehox.png",
+    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1754129434/51754129412524_qeehox.png",
   },
   {
     id: 16,
@@ -111,8 +111,8 @@ export const artworks: Artwork[] = [
   {
     id: 18,
     title: "Lightning Mage",
-    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1753469465/96385125_xzt17t.jpg",
-    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1753469465/96385125_xzt17t.jpg",
+    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1754130131/71754130090966_vv8ri3.png",
+    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1754130131/71754130090966_vv8ri3.png",
   },
   {
     id: 19,
