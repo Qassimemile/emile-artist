@@ -7,9 +7,6 @@ const nextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     minimumCacheTTL: 60,
   },
-  experimental: {
-    optimizeCss: true,
-  },
   compress: true,
   poweredByHeader: false,
   reactStrictMode: true,
