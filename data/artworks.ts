@@ -27,8 +27,8 @@ export const artworks: Artwork[] = [
   {
     id: 4,
     title: "Ancient Warrior",
-    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1753469457/85210_srkwls.png",
-    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1753469457/85210_srkwls.png",
+    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1754126185/81749914035127_chehzk.png",
+    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1754126185/81749914035127_chehzk.png",
   },
   {
     id: 5,
@@ -45,8 +45,8 @@ export const artworks: Artwork[] = [
   {
     id: 7,
     title: "Phoenix Rising",
-    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1753469457/5265_kn7v9a.png",
-    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1753469457/5265_kn7v9a.png",
+    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1753469458/piclumen-1751038877631_pv6db9.png",
+    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1753469458/piclumen-1751038877631_pv6db9.png",
   },
   {
     id: 8,
@@ -105,8 +105,8 @@ export const artworks: Artwork[] = [
   {
     id: 17,
     title: "Desert Temple",
-    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1753470134/piclumen-1750519620417_rdjqxk.png",
-    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1753470134/piclumen-1750519620417_rdjqxk.png",
+    image: "https://res.cloudinary.com/djd0fttnt/image/upload/v1753470725/98417_ms3caf.png",
+    thumbnail: "https://res.cloudinary.com/djd0fttnt/image/upload/c_scale,w_100/v1753470725/98417_ms3caf.png",
   },
   {
     id: 18,
